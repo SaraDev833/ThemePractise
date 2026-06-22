@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-  <div className='w-full h-screen'>
+  <div className='w-full h-screen dark:bg-slate-900'>
 
     <Navbar/>
     <Routes>
